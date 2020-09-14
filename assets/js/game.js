@@ -203,4 +203,4 @@ var enemyInfo = [
 ];
 
 // Start the game when the page loads
-//startGame();
+startGame();
